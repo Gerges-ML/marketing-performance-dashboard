@@ -2,7 +2,7 @@
 
 ---
 
-# 📄 **README.md **
+# 📄 README.md 
 
 ```markdown
 # 📊 Marketing Performance Dashboard  
