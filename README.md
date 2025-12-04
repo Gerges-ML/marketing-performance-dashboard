@@ -2,7 +2,7 @@
 
 ---
 
-# 📄 **README.md — نسخة محترفين جاهزة**
+# 📄 **README.md **
 
 ```markdown
 # 📊 Marketing Performance Dashboard  
